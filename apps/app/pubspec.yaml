@@ -1,0 +1,44 @@
+name: zomateen
+description: A Canteen Management System for College and School Canteens.
+
+publish_to: "none"
+version: 1.1.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^4.0.4
+  uuid: ^3.0.5
+  provider: ^6.0.1
+  animations: ^2.0.2
+  flutter_svg: ^1.0.0
+  file_picker: ^4.3.1
+  fluttertoast: ^8.0.8
+  google_fonts: ^2.1.0
+  cupertino_icons: ^1.0.2
+  cached_network_image: ^3.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
