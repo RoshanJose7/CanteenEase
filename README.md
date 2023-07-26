@@ -1,8 +1,6 @@
+# CanteenEase
 
-# Zomateen
-
-A colege/school canteen management system.
-Helps Caterers manage orders with ease.
+CanteenEase: Your College Canteen DBMS! Simplify catering with an intuitive web app. Effortlessly track orders, manage inventory, and serve students with ease through a user-friendly dashboard. Upgrade your canteen experience with AppetiteTrack! 🍔📊 #CanteenManagement #OrderTracking #UserFriendly
 
 
 ## Environment Variables
